@@ -1,3 +1,9 @@
+// ==Bookmarklet==
+// @name VoiceOver Helper
+// @author Joe Lanman
+// @script https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// ==/Bookmarklet==
+
 var $body = $('body');
 $body.wrapInner('<div id="voiceover-helper-original-page"></div>')
 var $originalPage = $('#voiceover-helper-original-page');
