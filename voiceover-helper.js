@@ -54,7 +54,7 @@ $body.append(`
       </tr>
       <tr>
         <td class="voiceover-helper-command">
-          VO
+          Ctrl
         </td>
         <td class="voiceover-helper-help">
           stop reading
